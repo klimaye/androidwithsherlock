@@ -3,8 +3,9 @@ package com.praeses.playandroid;
 import android.app.Activity;
 import android.os.Bundle;
 import android.util.Log;
+import com.actionbarsherlock.app.SherlockActivity;
 
-public class HelloAndroidActivity extends Activity {
+public class HelloAndroidActivity extends SherlockActivity {
 
     private static String TAG = "playandroid";
 
